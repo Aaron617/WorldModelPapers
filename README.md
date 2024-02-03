@@ -89,6 +89,12 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Jyothir S V, Siddhartha Jalagam, Yann LeCun, Vlad Sobal*  [[pdf](https://arxiv.org/abs/2312.17227)], 2023.12
 
+## Tutorial
+
+1. **Language Models meet World Models @ NeurIPS 2023** 
+
+    *Zhiting Hu, Tianmin Shu* [[site](https://sites.google.com/view/neurips2023law)], [[pdf](https://drive.google.com/file/d/110DE4qYOnrBgsNVyqsFAI4banfAjWMer/view)], 2023.12
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
